@@ -1,0 +1,8 @@
+# Program to print "networkwalks" four times using a for loop
+
+# Define the string to be printed
+output_string = "networkwalks"
+
+# Use a for loop to print the string four times
+for i in range(4):
+    print(output_string)
