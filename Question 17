@@ -1,0 +1,3 @@
+# Program to print the specified pattern using a single print function
+
+print("    *\n   * *\n  *   *\n *     *\n***   ***\n  *   *\n  *   *\n  *****")
