@@ -1,0 +1,10 @@
+# Program to replace 'a' with '0' in a text string
+
+# Ask the user to enter a text string
+text = input("Enter a text string: ")
+
+# Replace all occurrences of 'a' with '0'
+modified_text = text.replace('a', '0')
+
+# Display the result
+print(f"The modified string is: {modified_text}")
