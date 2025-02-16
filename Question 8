@@ -1,0 +1,13 @@
+# Program to calculate the average of two numbers
+
+# Ask the user to input the first number
+num1 = float(input("Enter the first number: "))
+
+# Ask the user to input the second number
+num2 = float(input("Enter the second number: "))
+
+# Calculate the average of the two numbers
+average = (num1 + num2) / 2
+
+# Display the result
+print(f"The average of {num1} and {num2} is {average}."
