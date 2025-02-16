@@ -1,0 +1,10 @@
+# Program to determine the length of a text string
+
+# Ask the user to enter a text string
+text = input("Enter a text string: ")
+
+# Calculate the length of the string
+length = len(text)
+
+# Display the result
+print(f"The length of the entered string is: {length}")
