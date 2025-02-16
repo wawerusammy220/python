@@ -1,0 +1,12 @@
+# Program to print "networkwalks" four times using a while loop
+
+# Define the string to be printed
+output_string = "networkwalks"
+
+# Initialize the counter
+count = 0
+
+# Use a while loop to print the string four times
+while count < 4:
+    print(output_string)
+    count += 
