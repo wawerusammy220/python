@@ -1,0 +1,10 @@
+# Program to convert hours into seconds
+
+# Ask the user to input the number of hours
+hours = float(input("Enter the number of hours: "))
+
+# Convert hours to seconds
+seconds = hours * 3600
+
+# Display the result
+print(f"{hours} hours is equal to {seconds} seconds.")
