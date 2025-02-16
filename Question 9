@@ -1,0 +1,9 @@
+# Program to print the specified output
+
+# Define the strings to be printed
+output1 = "networkwalks"
+output2 = "Cybersecurity Academy"
+
+# Print the strings
+print(output1)
+print(output2)
