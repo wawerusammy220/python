@@ -1,0 +1,8 @@
+# Program to print each letter of a text string separately using a for loop
+
+# Ask the user to enter a text string
+text = input("Enter a text string: ")
+
+# Use a for loop to print each letter separately
+for letter in text:
+    print(letter)
