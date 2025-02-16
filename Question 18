@@ -1,0 +1,10 @@
+# Program to print the specified pattern using eight print function commands
+
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
